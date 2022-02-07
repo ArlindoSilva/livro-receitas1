@@ -1,5 +1,8 @@
 
 #Livro receitas
 
-Olá, bem vindo as meu livro de receitas!
- - strogonoff de frango 
+Olá, bem vindo ao meu livro de receitas!
+ - strogonoff de frango .
+
+ - Pavê
+
